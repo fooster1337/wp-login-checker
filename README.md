@@ -1,2 +1,2 @@
-# wp-login-checker
-tools to check the results of xmlrpc brute
+# Wordpress-Login-Checker
+This is tools to check the results of xmlrpc brute
